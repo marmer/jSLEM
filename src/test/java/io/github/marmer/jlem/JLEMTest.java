@@ -132,4 +132,12 @@ class JLEMTest {
     // Assertion
     assertThat(result).containsExactly("a", "c").inOrder();
   }
+
+  // TODO: marmer 17.07.2021 CI
+  // TODO: marmer 17.07.2021 Sonar
+  // TODO: marmer 17.07.2021 Javadoc
+  // TODO: marmer 17.07.2021 Linting
+  // TODO: marmer 17.07.2021 Stream Zipping
+  // TODO: marmer 17.07.2021 License
+
 }
